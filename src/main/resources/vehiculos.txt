@@ -1,0 +1,4 @@
+carga;AB1234;Volvo;FH16;2020;150000;10;25.5
+pasajero;CD5678;Toyota;Hiace;2019;80000;5;12
+carga;EF9012;Scania;R500;2021;160000;8;30.0
+pasajero;GH3456;Mercedes;Sprinter;2018;75000;9;15
